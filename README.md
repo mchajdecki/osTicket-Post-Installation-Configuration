@@ -29,7 +29,13 @@ This tutorial outlines the Post Installation Configuration of the open-source he
 - The resources used in this osTicket Post Installation Configuration continue from the previous tutorial the - osTicket - Prerequisites and Installation.
 - Log into the osTicket Windows Virtual Machine to continue.
 
-<h3>For an in depth rundown on Microsoft Azure visit this <a href="https://github.com/mchajdecki/Microsoft-Azure">Microsoft Azure Full Tutorial</a>
+<h2>Once the osTicket is installed there will be two ways to access the portal</h2>
+
+- Admin/Analyst Login Page: <a href="http://localhost/osTicket/scp/login.php"</a> Admin/Analyst Login.
+
+- End Users osTicket URL: <a href="http://localhost/osTicket" </a> End Users osTicket URL.
+
+<h3>For an in depth rundown on Microsoft Azure visit this helpful guide <a href="https://github.com/mchajdecki/Microsoft-Azure">Microsoft Azure Full Tutorial</a>
 
 <h2>This tutorial outlines the following</h2>
 <ul>
