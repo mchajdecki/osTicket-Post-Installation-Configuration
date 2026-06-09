@@ -27,9 +27,7 @@ This tutorial outlines the Post Installation Configuration of the open-source he
 <h2>The resources used in this osTicket Post Installation Configuration continue from the previous tutorial the - osTicket - Prerequisites and Installation.</h2>
 <h2>Log into the osTicket Windows Virtual Machine to continue.</h2>
 
-- Resource Group
-- Windows Virtual Machine
-
+<br>
 <h3>For an in depth rundown on Microsoft Azure visit this <a href="https://github.com/mchajdecki/Microsoft-Azure">Microsoft Azure Full Tutorial</a>
 
 
