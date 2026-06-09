@@ -23,7 +23,8 @@ This tutorial outlines the Post Installation Configuration of the open-source he
 
 - Windows 10</b> (21H2)
 
-<h1>This tutorial is a follow up to the previous <a href="https://github.com/mchajdecki/osticket-prerequisites-and-installation">os Ticket - Prerequisites and Installation </a> The resources used in this post installation configuration will be the previously created Virtual Machine and the osTicket configuration so far. Reference to the link provided for the first steps of the osTicket installation and configuration.
+<h1>This tutorial is a follow up to the previous <a href="https://github.com/mchajdecki/osticket-prerequisites-and-installation">os Ticket - Prerequisites and Installation </a></h1>
+<h2>The resources used in this post installation configuration will be the previously created Virtual Machine and the osTicket configuration so far. Reference to the link provided for the first steps of the osTicket installation and configuration.</h2>
 
 - Resource Group
 - Windows Virtual Machine
