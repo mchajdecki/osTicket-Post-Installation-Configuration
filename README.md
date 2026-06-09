@@ -35,7 +35,7 @@ This tutorial outlines the Post Installation Configuration of the open-source he
 
 - End Users osTicket URL: <a href="http://localhost/osTicket"> End Users osTicket URL.</a> 
 
-<h2>In this tutorial we will access both portals the Admin and the End user for guiadance and further configuration in osTicket , the open-source help desk system that centralizes and routes customer support inquiries into a single ticketing dashboard.</h2>
+<h3>In this tutorial we will access both portals the Admin and the End user for guidance and further configuration in osTicket , the open-source help desk system that centralizes and routes customer support inquiries into a single ticketing dashboard.</h3>
 
 <h3>For an in depth rundown on Microsoft Azure visit this helpful guide <a href="https://github.com/mchajdecki/Microsoft-Azure">Microsoft Azure Full Tutorial</a>
 
