@@ -31,9 +31,11 @@ This tutorial outlines the Post Installation Configuration of the open-source he
 
 <h2>Once the osTicket is installed there will be two ways to access the portal</h2>
 
-- Admin/Analyst Login Page: <a href="http://localhost/osTicket/scp/login.php"</a> Admin/Analyst Login.
+- Admin/Analyst Login Page: <a href="http://localhost/osTicket/scp/login.php"></a> Admin/Analyst Login.
 
-- End Users osTicket URL: <a href="http://localhost/osTicket" </a> End Users osTicket URL.
+- End Users osTicket URL: <a href="http://localhost/osTicket"></a> End Users osTicket URL.
+
+<h2>In this tutorial we will access both portals the Admin and the End user for guiadance and further configuration.</h2>
 
 <h3>For an in depth rundown on Microsoft Azure visit this helpful guide <a href="https://github.com/mchajdecki/Microsoft-Azure">Microsoft Azure Full Tutorial</a>
 
