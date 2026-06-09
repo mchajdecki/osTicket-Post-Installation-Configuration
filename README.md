@@ -11,7 +11,7 @@ This tutorial outlines the Post Installation Configuration of the open-source he
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+- ### [YouTube: osTicket Post Installation Configuration](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
