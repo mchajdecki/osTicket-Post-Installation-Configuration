@@ -30,9 +30,6 @@ This tutorial outlines the Post Installation Configuration of the open-source he
 <br>
 <h3>For an in depth rundown on Microsoft Azure visit this <a href="https://github.com/mchajdecki/Microsoft-Azure">Microsoft Azure Full Tutorial</a>
 
-
-<br>
-
 <h2>This tutorial outlines the following</h2>
 <ul>
 
