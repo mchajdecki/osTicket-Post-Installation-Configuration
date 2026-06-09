@@ -42,9 +42,11 @@ This tutorial outlines the Post Installation Configuration of the open-source he
 <h2>This tutorial outlines the following</h2>
 <ul>
 
-<li><a href="#"></a></li>
-<li><a href="#"></a></li>
-<li><a href="#"></a></li>
-<li><a href="#"></a></li>
-<li><a href="#"></a></li>
+<li><a href="#roles">Configure Roles</a></li>
+<li><a href="#departments">Configure Departments</a></li>
+<li><a href="#teams">Configure Teams</a></li>
+<li><a href="#agents">Configure Agents(workers)</a></li>
+<li><a href="#users">Configure Users(customers)</a></li>
+<li><a href="#sla">Configure SLA</a></li>
+<li><a href="#help">Configure Help Topics</a></li>
 </ul>
