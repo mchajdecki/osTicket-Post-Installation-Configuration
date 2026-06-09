@@ -23,7 +23,7 @@ This tutorial outlines the Post Installation Configuration the open-source help 
 
 - Windows 10</b> (21H2)
 
-<h1>In This tutorial we will be creating the following resources in Microsoft Azure and proceed to Install OS Ticket Inside the Virtual Machine.</h1>
+<h1>This tutorial is a follow up to the previous <a href="https://github.com/mchajdecki/osticket-prerequisites-and-installation">Prerequisites and Installation of the osTicket. The resources used in this section will be the virtual machine created and osTicket installed previously.</h1>
 
 - Resource Group
 - Windows Virtual Machine
