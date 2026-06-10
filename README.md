@@ -58,7 +58,7 @@ This tutorial outlines the Post Installation Configuration of the open-source he
 
 <p>
   <ol type="1">
-     <li>Navigate to and Log into the Admin/Analyst section of osTicket to begin.<a href="http://localhost/osTicket/scp/login.php">Admin/Analyst Login Page:</a></li></li>
+     <li>Navigate to and Log into the Admin/Analyst section of osTicket to begin <a href="http://localhost/osTicket/scp/login.php">Admin/Analyst Login Page:</a></li></li>
     <li>Use the credentials set up in the pre-installation and configuration of osTicket.</li>
   </ol>
 </p>
