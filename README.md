@@ -50,16 +50,16 @@ This tutorial outlines the Post Installation Configuration of the open-source he
 <li><a href="#sla">Configure SLA</a></li>
 <li><a href="#help">Configure Help Topics</a></li>
 </ul>
+</br>
 
 
-<h1 id="rg"><i>Configure Roles</i></h1>
+<h1 id="roles"><i>Configure Roles</i></h1>
 <h2>In osTicket, configuring roles means defining specific permission levels—such as the ability to delete tickets, edit threads, or assign tasks—that can be assigned to agents independent of their departmental access.</h2>
 
 <p>
   <ol type="1">
      <li>Navigate to and Log into the Admin/Analyst section of osTicket to begin.<a href="http://localhost/osTicket/scp/login.php">Admin/Analyst Login Page:</a></li></li>
     <li>Use the credentials set up in the pre-installation and configuration of osTicket.</li>
-    <li></li>
   </ol>
 </p>
 <p>
