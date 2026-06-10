@@ -31,9 +31,9 @@ This tutorial outlines the Post Installation Configuration of the open-source he
 
 <h2>Once the osTicket is installed there will be two ways to access the portal</h2>
 
-- Admin/Analyst Login Page: <a href="http://localhost/osTicket/scp/login.php">Admin/Analyst Login</a>
+- Admin/Analyst Login Page: <a href="http://localhost/osTicket/scp/login.php">Admin/Analyst Login where you configure settings on the back end for osTicket.</a>
 
-- End Users osTicket URL: <a href="http://localhost/osTicket"> End Users osTicket URL.</a> 
+- End Users osTicket URL: <a href="http://localhost/osTicket"> End Users osTicket URL, essentially a help desk worker that works on tickets.</a> 
 
 <h3>In this tutorial we will access both portals the Admin and the End user for guidance and further configuration in osTicket , the open-source help desk system that centralizes and routes customer support inquiries into a single ticketing dashboard.</h3>
 
@@ -50,3 +50,20 @@ This tutorial outlines the Post Installation Configuration of the open-source he
 <li><a href="#sla">Configure SLA</a></li>
 <li><a href="#help">Configure Help Topics</a></li>
 </ul>
+
+
+<h1 id="rg"><i>Configure Roles</i></h1>
+<h2>In osTicket, configuring roles means defining specific permission levels—such as the ability to delete tickets, edit threads, or assign tasks—that can be assigned to agents independent of their departmental access.</h2>
+
+<p>
+  <ol type="1">
+     <li>Log into the Admin/Analyst section of osTicket to begin.<a href="http://localhost/osTicket/scp/login.php">Admin/Analyst Login Page:</a></li></li>
+    <li>Use credentials set up in the pre-installation of osTicket </li>
+    <li></li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/osticket-prereqs/blob/65f7f852322784b0ae7525176b7943ac0527d8a7/images/Slide-1.jpg" alt="Creating a Resource Group - Slide_1"/>
+</p>
+<br>
+<hr>
