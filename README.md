@@ -57,13 +57,13 @@ This tutorial outlines the Post Installation Configuration of the open-source he
 
 <p>
   <ol type="1">
-     <li>Log into the Admin/Analyst section of osTicket to begin.<a href="http://localhost/osTicket/scp/login.php">Admin/Analyst Login Page:</a></li></li>
-    <li>Use credentials set up in the pre-installation of osTicket </li>
+     <li>Navigate to and Log into the Admin/Analyst section of osTicket to begin.<a href="http://localhost/osTicket/scp/login.php">Admin/Analyst Login Page:</a></li></li>
+    <li>Use the credentials set up in the pre-installation and configuration of osTicket </li>
     <li></li>
   </ol>
 </p>
 <p>
-<img src="https://github.com/mchajdecki/osticket-prereqs/blob/65f7f852322784b0ae7525176b7943ac0527d8a7/images/Slide-1.jpg" alt="Creating a Resource Group - Slide_1"/>
+<img src="" alt=""/>
 </p>
 <br>
 <hr>
