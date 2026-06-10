@@ -67,3 +67,15 @@ This tutorial outlines the Post Installation Configuration of the open-source he
 </p>
 <br>
 <hr>
+
+
+<p>
+  <ol type="1">
+    <li>Once logged in click on the Admin Panel button to continue.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/2716d336ea141034c080615d34c1d2a6bedda4c9/images/Slide_2.jpg" alt="Slide_2"/>
+</p>
+<br>
+<hr>
