@@ -79,3 +79,15 @@ This tutorial outlines the Post Installation Configuration of the open-source he
 </p>
 <br>
 <hr>
+
+
+<p>
+  <ol type="1">
+    <li</li>
+  </ol>
+</p>
+<p>
+<img src="" alt="Slide_3"/>
+</p>
+<br>
+<hr>
