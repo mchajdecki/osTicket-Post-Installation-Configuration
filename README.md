@@ -138,3 +138,15 @@ This tutorial outlines the Post Installation Configuration of the open-source he
 <br>
 <hr>
 
+<p>
+  <ol type="1">
+    <li>Name the new role i.e. Supreme Administrator.</li>
+    <li>Click on Add Role.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/91bf1d1c18c092002aac4064bc486c1ae0774b71/images/Slide-8.jpg" alt="Slide_8"/>
+</p>
+<br>
+<hr>
+
