@@ -173,4 +173,18 @@ This tutorial outlines the Post Installation Configuration of the open-source he
 <br>
 <hr>
 
+<h1 id="departments"><i>Configure Departments</i></h1>
+<h2></h2>
+
+<p>
+  <ol type="1">
+     <li></li>
+  </ol>
+</p>
+<p>
+<img src="" alt=""/>
+</p>
+<br>
+<hr>
+
 
