@@ -127,4 +127,14 @@ This tutorial outlines the Post Installation Configuration of the open-source he
 <br>
 <hr>
 
+<p>
+  <ol type="1">
+    <li>Click on Add New Role.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/7f55a4f11082399727c905c37c9f86d971898439/images/Slide-7.jpg" alt="Slide_7"/>
+</p>
+<br>
+<hr>
 
