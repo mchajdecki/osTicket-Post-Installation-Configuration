@@ -83,6 +83,17 @@ This tutorial outlines the Post Installation Configuration of the open-source he
 
 <p>
   <ol type="1">
+    <li>Click on agents.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/6ce7229c44c95ba67717149fb81fc165cbc4bf36/images/Slide_3.jpg" alt="Slide_3"/>
+</p>
+<br>
+<hr>
+
+<p>
+  <ol type="1">
     <li</li>
   </ol>
 </p>
