@@ -117,12 +117,12 @@ This tutorial outlines the Post Installation Configuration of the open-source he
 
 <p>
   <ol type="1">
-    <li></li>
-    <li></li>
+    <li>Click on permissions.</li>
+    <li>These are the checked permissions in the expanded access in roles.</li>
   </ol>
 </p>
 <p>
-<img src="" alt="Slide_6"/>
+<img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/04df85904f0bc1ee79b0e0b153d764734a420b2c/images/Slide-6.jpg" alt="Slide_6"/>
 </p>
 <br>
 <hr>
