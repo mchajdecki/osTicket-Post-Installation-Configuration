@@ -152,12 +152,12 @@ This tutorial outlines the Post Installation Configuration of the open-source he
 
 <p>
   <ol type="1">
-    <li>Check all Permissions for the newly added role.</li>
+    <li>Check all Permissions for the newly added role in the Tickets portion.</li>
     <li>Click on Add Role.</li>
   </ol>
 </p>
 <p>
-<img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/1c5e655e90907ed183af9d7e7a9f45ceb7ef9231/images/Slide-9.jpg" alt="Slide_9"/>
+<img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/4f96a8763081b6e8915269d647d756b192daf452/images/Slide-9.jpg" alt="Slide_9"/>
 </p>
 <br>
 <hr>
