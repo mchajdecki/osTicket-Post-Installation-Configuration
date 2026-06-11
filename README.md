@@ -94,11 +94,11 @@ This tutorial outlines the Post Installation Configuration of the open-source he
 
 <p>
   <ol type="1">
-    <li</li>
+    <li>Click on roles.</li>
   </ol>
 </p>
 <p>
-<img src="" alt="Slide_3"/>
+<img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/2a33ef24c32630d709f32ab2175c33b965ea4998/images/Slide_4.jpg" alt="Slide_4"/>
 </p>
 <br>
 <hr>
