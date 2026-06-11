@@ -63,7 +63,7 @@ This tutorial outlines the Post Installation Configuration of the open-source he
   </ol>
 </p>
 <p>
-<img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/618febc739ce97aadab23b15ca8160badbbaba46/images/Slide_1.jpg" alt="Slide_1"/>
+<img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/89b59c28a6e41f1756f5561e9cbf824138831781/images/Slide-1.jpg" alt="Slide_1"/>
 </p>
 <br>
 <hr>
@@ -75,7 +75,7 @@ This tutorial outlines the Post Installation Configuration of the open-source he
   </ol>
 </p>
 <p>
-<img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/2716d336ea141034c080615d34c1d2a6bedda4c9/images/Slide_2.jpg" alt="Slide_2"/>
+<img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/5741d134309dd1b8092fb9324a885f84510b4276/images/Slide-2.jpg" alt="Slide_2"/>
 </p>
 <br>
 <hr>
@@ -87,7 +87,7 @@ This tutorial outlines the Post Installation Configuration of the open-source he
   </ol>
 </p>
 <p>
-<img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/6ce7229c44c95ba67717149fb81fc165cbc4bf36/images/Slide_3.jpg" alt="Slide_3"/>
+<img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/f11b60748b1fb8576c62b4ac5c4c3e2fb8c5c622/images/Slide-3.jpg" alt="Slide_3"/>
 </p>
 <br>
 <hr>
@@ -98,7 +98,33 @@ This tutorial outlines the Post Installation Configuration of the open-source he
   </ol>
 </p>
 <p>
-<img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/2a33ef24c32630d709f32ab2175c33b965ea4998/images/Slide_4.jpg" alt="Slide_4"/>
+<img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/01edbadb71f475d8d952a83cf972aa6fa9d1c26e/images/Slide-4.jpg" alt="Slide_4"/>
 </p>
 <br>
 <hr>
+
+<p>
+  <ol type="1">
+    <li>In the roles section we see all various types of access levels.</li>
+    <li>Click on expanded access to continue.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/215175f95a4f776c747b86d4592949170f2d0113/images/Slide-5.jpg" alt="Slide_5"/>
+</p>
+<br>
+<hr>
+
+<p>
+  <ol type="1">
+    <li></li>
+    <li></li>
+  </ol>
+</p>
+<p>
+<img src="" alt="Slide_6"/>
+</p>
+<br>
+<hr>
+
+
