@@ -216,7 +216,12 @@ This tutorial outlines the Post Installation Configuration of the open-source he
 
 <p>
   <ol type="1">
-    <li></li>
+    <li>Here is a quick, high-level breakdown of each section.</li>
+- Department Information: Defines the department's core identity, visibility, SLA schedules, and ticket assignment rules.
+- Outgoing Email Settings: Determines the specific email address and template used for outgoing staff replies.
+- Autoresponder Settings: Toggles automatic confirmation emails for new tickets and user messages.
+- Alerts and Notices: Specifies which internal staff members receive notifications about ticket activity.
+- Department Signature: A standardized text block automatically appended to the bottom of staff replies.
   </ol>
 </p>
 <p>
