@@ -180,7 +180,7 @@ This tutorial outlines the Post Installation Configuration of the open-source he
   </ol>
 </p>
 <p>
-<img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/4e41c0cbd204adf3d4be09c5d29b379f9791629d/images/Slide_11.jpg" alt="Slide_10"/>
+<img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/4e41c0cbd204adf3d4be09c5d29b379f9791629d/images/Slide_11.jpg" alt="Slide_11"/>
 </p>
 <br>
 <br>
@@ -189,7 +189,46 @@ This tutorial outlines the Post Installation Configuration of the open-source he
 
 
 <h1 id="departments"><i>Configure Departments</i></h1>
-<h2></h2>
+<h2>In osTicket, departments are organizational categories used to automatically route incoming support tickets to the appropriate team of agents based on the specific issue type or service tier.</h2>
+
+<p>
+  <ol type="1">
+     <li>In the Admin panel - select Agents --> Departments</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/4bd7d8ad49fc8d297204ff20a1b4c006f5350362/images/Slide_12.jpg" alt="Slide_12"/>
+</p>
+<br>
+<hr>
+
+
+<p>
+  <ol type="1">
+    <li>Click on Add New Department.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/5b0b24f572716adc2210e9026aeb8761e53ebce9/images/Slide_13.jpg" alt="Slide_13"/>
+</p>
+<br>
+<hr>
+
+<p>
+  <ol type="1">
+    <li></li>
+  </ol>
+</p>
+<p>
+<img src="" alt="Slide_13"/>
+</p>
+<br>
+<br>
+<hr>
+
+
+<h1 id="departments"><i>Configure Teams</i></h1>
+<h2>In osTicket, configuring teams creates cross-departmental groups of agents, enabling seamless collaboration and shared assignment on specialized tickets that require multiple areas of expertise.</h2>
 
 <p>
   <ol type="1">
@@ -197,9 +236,10 @@ This tutorial outlines the Post Installation Configuration of the open-source he
   </ol>
 </p>
 <p>
-<img src="" alt=""/>
+<img src="" alt="Slide_14"/>
 </p>
 <br>
 <hr>
+
 
 
