@@ -128,7 +128,7 @@ This tutorial outlines the Post Installation Configuration of the open-source he
 
 <p>
   <ol type="1">
-    <li>Go back to Roles and Click on Add New Role.</li>
+    <li>Go back to --> Agents --> Roles and Click on Add New Role.</li>
   </ol>
 </p>
 <p>
