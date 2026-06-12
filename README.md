@@ -227,7 +227,7 @@ This tutorial outlines the Post Installation Configuration of the open-source he
 <hr>
 
 
-<h1 id="departments"><i>Configure Teams</i></h1>
+<h1 id="teams"><i>Configure Teams</i></h1>
 <h2>In osTicket, configuring teams creates cross-departmental groups of agents, enabling seamless collaboration and shared assignment on specialized tickets that require multiple areas of expertise.</h2>
 
 <p>
