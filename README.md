@@ -224,10 +224,12 @@ This tutorial outlines the Post Installation Configuration of the open-source he
 <li>Alerts and Notices: Specifies which internal staff members receive notifications about ticket activity.</li>
 <li>Department Signature: A standardized text block automatically appended to the bottom of staff replies.</li>
     </ul>
+    <li>Fill in the information with the guide above for this example tutorial.</li>
+    <li>Click on create dept to finish.</li>
   </ol>
 </p>
 <p>
-<img src="" alt="Slide_13"/>
+<img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/edca6e5f3250bfe4bbb1e2067079e9fe1df9ef59/images/Slide_14.jpg" alt="Slide_13"/>
 </p>
 <br>
 <br>
