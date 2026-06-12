@@ -172,6 +172,22 @@ This tutorial outlines the Post Installation Configuration of the open-source he
 <br>
 <hr>
 
+<p>
+  <ol type="1">
+    <li>Confirmation message displays that a new role has been added.</li>
+    <li>New Supreme Administrator role displays.</li>
+    <li>This concludes adding new role.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/4e41c0cbd204adf3d4be09c5d29b379f9791629d/images/Slide_11.jpg" alt="Slide_10"/>
+</p>
+<br>
+<br>
+<hr>
+
+
+
 <h1 id="departments"><i>Configure Departments</i></h1>
 <h2></h2>
 
