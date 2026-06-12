@@ -216,7 +216,7 @@ This tutorial outlines the Post Installation Configuration of the open-source he
 
 <p>
   <ol type="1">
-    <li>Here is a quick, high-level breakdown of each section.</li>
+    <li>Here is a breakdown of each section.</li>
     <ul>
 <li>Department Information: Defines the department's core identity, visibility, SLA schedules, and ticket assignment rules.</li>
 <li>Outgoing Email Settings: Determines the specific email address and template used for outgoing staff replies.</li>
