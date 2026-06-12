@@ -31,7 +31,7 @@ This tutorial outlines the Post Installation Configuration of the open-source he
 
 <h2>Once the osTicket is installed there will be two ways to access the portal</h2>
 
-- Admin/Analyst Login Page: <a href="http://localhost/osTicket/scp/login.php"</a> Admin/Analyst Login where you configure settings on the back end for osTicket.</a>
+- Admin/Analyst Login Page: <a href="http://localhost/osTicket/scp/login.php"></a> Admin/Analyst Login where you configure settings on the back end for osTicket.</a>
 
 - End Users osTicket URL: <a href="http://localhost/osTicket"> End Users osTicket URL, essentially a help desk worker that works on tickets.</a> 
 
