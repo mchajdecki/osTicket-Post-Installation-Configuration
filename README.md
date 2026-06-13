@@ -329,3 +329,16 @@ This tutorial outlines the Post Installation Configuration of the open-source he
 <br>
 <hr>
 
+<p>
+  <ol type="1">
+    <li>Make sure the Registration Required box is unchecked.</li>
+    <li>Click on Save Changes to finish.</li>
+    <li>Successfully updated User Settings and Options Message will display.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/be69988e3d162ca835ae800cf1ca3e55e9a3e169/images/Slide_22.jpg" alt="Slide_22"/>
+</p>
+<br>
+<hr>
+
