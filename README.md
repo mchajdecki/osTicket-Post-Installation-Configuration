@@ -340,5 +340,36 @@ This tutorial outlines the Post Installation Configuration of the open-source he
 <img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/be69988e3d162ca835ae800cf1ca3e55e9a3e169/images/Slide_22.jpg" alt="Slide_22"/>
 </p>
 <br>
+<br>
 <hr>
 
+
+
+<h1 id="agents"><i>Configure Agents</i></h1>
+<h2>In osTicket and this section we set up staff accounts, define their roles and permissions, and assign them to specific departments so your team can effectively manage and resolve incoming tickets</h2>
+
+<p>
+  <ol type="1">
+     <li>Click on Agents to add new agent.s</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/f9f28662e74763a1ab0a444db354cfa4696f6265/images/Slide_23.jpg" alt="Slide_23"/>
+</p>
+<br>
+<hr>
+
+<p>
+  <ol type="1">
+    <li>Click Add New Agent.</li>
+    <li>Create a "fake" name - email address and username for this tutorial.</li>
+    <li>Select the department previously created i.e. Networking Issues with the Supreme Administrator Role.</li>
+    <li>In Teams select the previously created Online Banking Team.</li>
+    <li>Successfully Added a mew agent message displays.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/2b636d06efaf467f84f69bf1c80c5ca714adbf10/images/Slide_24.jpg" alt="Slide_24"/>
+</p>
+<br>
+<hr>
