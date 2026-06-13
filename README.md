@@ -314,8 +314,9 @@ This tutorial outlines the Post Installation Configuration of the open-source he
 <hr>
 
 
+
 <h1 id="allow"><i>Configure Allowing Ticket Creators.</i></h1>
-<h2></h2>
+<h2>Enabling a setting to allow users to quickly submit support tickets as guests without needing to register for an account or log in.</h2>
 
 <p>
   <ol type="1">
@@ -327,7 +328,4 @@ This tutorial outlines the Post Installation Configuration of the open-source he
 </p>
 <br>
 <hr>
-
-
-
 
