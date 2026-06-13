@@ -310,7 +310,7 @@ This tutorial outlines the Post Installation Configuration of the open-source he
 <img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/12cc16ac90ce767113bae09051dbaac6039facd6/images/Slide_20.jpg" alt="Slide_20/>
 </p>
 <br>
-  <br>
+<br>
 <hr>
 
 
