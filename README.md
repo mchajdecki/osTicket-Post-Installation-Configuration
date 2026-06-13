@@ -252,37 +252,81 @@ This tutorial outlines the Post Installation Configuration of the open-source he
 
 <p>
   <ol type="1">
+     <li>In the Admin Panel click on Teams.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/8dd13c6161e00454061f7f026d7074377b90c435/images/Slide_16.jpg" alt="Slide_16"/>
+</p>
+<br>
+<hr>
+
+
+<p>
+  <ol type="1">
+    <li>Click on Add New Team.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/8d8adebec4faccde27c08837499566f02799dd63/images/Slide_17.jpg" alt="Slide_17/>
+</p>
+<br>
+<hr>
+
+
+<p>
+  <ol type="1">
+    <li>Click on Members.</li>
+    <li>In this example we havent added any members yet, choose your own account for this tutorial.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/e11d8925ef859303a13b9cb5ac5bda24037b04f2/images/Slide_18.jpg" alt="Slide_18/>
+</p>
+<br>
+<hr>
+
+
+<p>
+  <ol type="1">
+    <li>Go back to Team.</li>
+    <li>Name the team to a specific brand such as i.e. Online Banking.</li>
+    <li>Leave the rest of the options and click on Create Team.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/c4745b08427175609fb1f593469ce30331b60294/images/Slide_19.jpg" alt="Slide_19/>
+</p>
+<br>
+<hr>
+
+<p>
+  <ol type="1">
+    <li>Successfully added team message will display.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/12cc16ac90ce767113bae09051dbaac6039facd6/images/Slide_20.jpg" alt="Slide_20/>
+</p>
+<br>
+  <br>
+<hr>
+
+
+<h1 id="teams"><i>Configure Teams</i></h1>
+<h2></h2>
+
+<p>
+  <ol type="1">
      <li></li>
   </ol>
 </p>
 <p>
-<img src="" alt="Slide_14"/>
+<img src="h" alt=""/>
 </p>
 <br>
 <hr>
 
 
-<p>
-  <ol type="1">
-    <li></li>
-  </ol>
-</p>
-<p>
-<img src="" alt="Slide_15/>
-</p>
-<br>
-<hr>
-
-
-<p>
-  <ol type="1">
-    <li></li>
-  </ol>
-</p>
-<p>
-<img src="" alt="Slide_15/>
-</p>
-<br>
-<hr>
 
 
