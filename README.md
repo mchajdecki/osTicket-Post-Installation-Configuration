@@ -44,6 +44,7 @@ This tutorial outlines the Post Installation Configuration of the open-source he
 <li><a href="#roles">Configure Roles</a></li>
 <li><a href="#departments">Configure Departments</a></li>
 <li><a href="#teams">Configure Teams</a></li>
+<li><a href="#allow">Configure Allowing Ticket Creators</a></li>
 <li><a href="#agents">Configure Agents(workers)</a></li>
 <li><a href="#users">Configure Users(customers)</a></li>
 <li><a href="#sla">Configure SLA</a></li>
@@ -313,16 +314,16 @@ This tutorial outlines the Post Installation Configuration of the open-source he
 <hr>
 
 
-<h1 id="teams"><i>Configure Teams</i></h1>
+<h1 id="allow"><i>Configure Allowing Ticket Creators.</i></h1>
 <h2></h2>
 
 <p>
   <ol type="1">
-     <li></li>
+     <li>Click on Settings --> Users.</li>
   </ol>
 </p>
 <p>
-<img src="h" alt=""/>
+<img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/6814fda216db17e935ffb7293f5b1f0a6d6aa0b6/images/Slide_21.jpg" alt="Slide_21"/>
 </p>
 <br>
 <hr>
