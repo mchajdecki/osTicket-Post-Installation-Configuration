@@ -269,7 +269,7 @@ This tutorial outlines the Post Installation Configuration of the open-source he
   </ol>
 </p>
 <p>
-<img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/8d8adebec4faccde27c08837499566f02799dd63/images/Slide_17.jpg" alt="Slide_17/>
+<img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/8d8adebec4faccde27c08837499566f02799dd63/images/Slide_17.jpg" alt="Slide_17"/>
 </p>
 <br>
 <hr>
