@@ -232,6 +232,17 @@ This tutorial outlines the Post Installation Configuration of the open-source he
 <img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/edca6e5f3250bfe4bbb1e2067079e9fe1df9ef59/images/Slide_14.jpg" alt="Slide_14"/>
 </p>
 <br>
+<hr>
+
+<p>
+  <ol type="1">
+    <li>Successfull added new department messsage will display.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/2359eb8858626de477a140f2d90eed35f3cd7971/images/Slide_15.jpg" alt="Slide_15"/>
+</p>
+<br>
 <br>
 <hr>
 
