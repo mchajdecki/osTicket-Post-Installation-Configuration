@@ -400,3 +400,19 @@ This tutorial outlines the Post Installation Configuration of the open-source he
 </p>
 <br>
 <hr>
+
+
+<h1 id="allow"><i>Configure Users.</i></h1>
+<h2></h2>
+
+<p>
+  <ol type="1">
+     <li></li>
+  </ol>
+</p>
+<p>
+<img src="" alt="Slide_27"/>
+</p>
+<br>
+<hr>
+
