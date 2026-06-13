@@ -373,3 +373,30 @@ This tutorial outlines the Post Installation Configuration of the open-source he
 </p>
 <br>
 <hr>
+
+<p>
+  <ol type="1">
+    <li>Add another Agent i.e. Mark Smith.</li>
+    <li>In access options choose only the Support and View only permissions.</li>
+    <li>Click on Create to finish.</li>
+    <li>Succesfully added new agent i.e Mark Smith message displays.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/6caf79f221bb9282745e5fcc6e13d451848ad428/images/Slide_25.jpg" alt="Slide_25"/>
+</p>
+<br>
+<hr>
+
+<p>
+  <ol type="1">
+    <li>To set up a password, nagivate to the agent and click on Set Password.</li>
+    <li>Make sure the Send the agent a password reset email box is unchecked.</li>
+    <li>Type in a new password and click update to set the log in password for a particular agent.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/274044ffa897f2c0c67853f859796db62325f123/images/Slide_26.jpg" alt="Slide_26"/>
+</p>
+<br>
+<hr>
