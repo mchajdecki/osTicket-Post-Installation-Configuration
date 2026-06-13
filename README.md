@@ -296,7 +296,7 @@ This tutorial outlines the Post Installation Configuration of the open-source he
   </ol>
 </p>
 <p>
-<img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/c4745b08427175609fb1f593469ce30331b60294/images/Slide_19.jpg" alt="Slide_19/>
+<img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/c4745b08427175609fb1f593469ce30331b60294/images/Slide_19.jpg" alt="Slide_19"/>
 </p>
 <br>
 <hr>
@@ -307,7 +307,7 @@ This tutorial outlines the Post Installation Configuration of the open-source he
   </ol>
 </p>
 <p>
-<img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/12cc16ac90ce767113bae09051dbaac6039facd6/images/Slide_20.jpg" alt="Slide_20/>
+<img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/12cc16ac90ce767113bae09051dbaac6039facd6/images/Slide_20.jpg" alt="Slide_20"/>
 </p>
 <br>
 <br>
