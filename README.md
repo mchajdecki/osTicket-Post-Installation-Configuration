@@ -399,6 +399,7 @@ This tutorial outlines the Post Installation Configuration of the open-source he
 <img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/274044ffa897f2c0c67853f859796db62325f123/images/Slide_26.jpg" alt="Slide_26"/>
 </p>
 <br>
+<br>
 <hr>
 
 
@@ -407,12 +408,58 @@ This tutorial outlines the Post Installation Configuration of the open-source he
 
 <p>
   <ol type="1">
-     <li></li>
+     <li>Click on Agent panel to go to the Admin Panel.</li>
   </ol>
 </p>
 <p>
-<img src="" alt="Slide_27"/>
+<img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/adcee53f557fee1ca3e3d75355fe30baa543497f/images/Slide_27.jpg" alt="Slide_27"/>
 </p>
 <br>
 <hr>
 
+<p>
+  <ol type="1">
+    <li>Navigate to Users.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/91d43a141e2332f479bc605381f720ad1f993a67/images/Slide_28.jpg" alt="Slide_28"/>
+</p>
+<br>
+<hr>
+
+<p>
+  <ol type="1">
+    <li>Click on Add User.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/d0f3890cf89c19868dbb344170f1cc71fc079573/images/Slide_29.jpg" alt="Slide_29"/>
+</p>
+<br>
+<hr>
+
+<p>
+  <ol type="1">
+    <li>Fill in the credentials to Add New User.</li>
+    <li>Click Add User.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/bd5451cbb2202c4b7d540e89208fc9508adda210/images/Slide_30.jpg" alt="Slide_30"/>
+</p>
+<br>
+<hr>
+
+<p>
+  <ol type="1">
+    <li>T</li>
+    <li></li>
+    <li></li></li>
+  </ol>
+</p>
+<p>
+<img src="" alt="Slide_"/>
+</p>
+<br>
+<hr>
