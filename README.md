@@ -453,14 +453,13 @@ This tutorial outlines the Post Installation Configuration of the open-source he
 
 <p>
   <ol type="1">
-    <li>T</li>
-    <li></li>
-    <li></li></li>
+    <li>New user successfully added.</li>
   </ol>
 </p>
 <p>
 <img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/5093727616e2f0275737625d5038225461eb0e3e/images/Slide_31.jpg" alt="Slide_31"/>
 </p>
+<br>
 <br>
 <hr>
 
@@ -471,11 +470,35 @@ This tutorial outlines the Post Installation Configuration of the open-source he
 
 <p>
   <ol type="1">
-     <li></li>
+     <li>Click back on Admin Panel to go back to the Agent Panel.</li>
   </ol>
 </p>
 <p>
-<img src="" alt="Slide_27"/>
+<img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/cd491fd6252e0fe72047c8a33169a5d97943d5ef/images/Slide_32.jpg" alt="Slide_32"/>
+</p>
+<br>
+<hr>
+
+
+<p>
+  <ol type="1">
+    <li>Got to Manage --> SLA</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/b3b7e0b30f22eb2f3703b36288ce2cd764f4b641/images/Slide_33.jpg" alt="Slide_33"/>
+</p>
+<br>
+<hr>
+
+
+<p>
+  <ol type="1">
+    <li>Click on Add New SLA Plan.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/f6aa44a1fb860232200c9651195645b732ac8406/images/Slide_34.jpg" alt="Slide_34"/>
 </p>
 <br>
 <hr>
