@@ -404,7 +404,7 @@ This tutorial outlines the Post Installation Configuration of the open-source he
 
 
 <h1 id="users"><i>Configure Users.</i></h1>
-<h2></h2>
+<h2>In osTicket this section is to manage your helpdesk's end-users by configuring their profiles, organizing them into companies, and controlling their account settings.</h2>
 
 <p>
   <ol type="1">
