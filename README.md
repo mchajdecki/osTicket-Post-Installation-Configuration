@@ -459,14 +459,14 @@ This tutorial outlines the Post Installation Configuration of the open-source he
   </ol>
 </p>
 <p>
-<img src="" alt="Slide_"/>
+<img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/5093727616e2f0275737625d5038225461eb0e3e/images/Slide_31.jpg" alt="Slide_31"/>
 </p>
 <br>
 <hr>
 
 
 
-<h1 id="users"><i>Configure SLA.</i></h1>
+<h1 id="sla"><i>Configure SLA.</i></h1>
 <h2>In osTicket, configuring SLA plans allows you to define target response and resolution deadlines for tickets to ensure your team meets service standards and handles urgent issues on time.</h2>
 
 <p>
@@ -475,7 +475,7 @@ This tutorial outlines the Post Installation Configuration of the open-source he
   </ol>
 </p>
 <p>
-<img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/adcee53f557fee1ca3e3d75355fe30baa543497f/images/Slide_27.jpg" alt="Slide_27"/>
+<img src="" alt="Slide_27"/>
 </p>
 <br>
 <hr>
