@@ -564,4 +564,24 @@ This tutorial outlines the Post Installation Configuration of the open-source he
 <img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/fa6188aa3c4d896841957eedd1e16f6acbb753f4/images/Slide_39.jpg" alt="Slide_39"/>
 </p>
 <br>
+<br>
 <hr>
+
+
+<h2>This concludes the general initial set up of osTicket where created ; Roles, Departments, Teams, Agents, Users, Configured SLA;s and created some help topics. </h2>
+<h2>Use any of the following links below to revisit tutorial sections.</h2>
+<ul>
+<li><a href="#roles">Configure Roles</a></li>
+<li><a href="#departments">Configure Departments</a></li>
+<li><a href="#teams">Configure Teams</a></li>
+<li><a href="#allow">Configure Allowing Ticket Creators</a></li>
+<li><a href="#agents">Configure Agents(workers)</a></li>
+<li><a href="#users">Configure Users(customers)</a></li>
+<li><a href="#sla">Configure SLA</a></li>
+<li><a href="#help">Configure Help Topics</a></li>
+<h2>To continue to the next part of the osTicket the ticket lifestyle examples <a href="">Click Here</a>
+</ul>
+<br>
+<a href="#top" ><strong>Back To Top</strong></a>
+
+
