@@ -502,3 +502,17 @@ This tutorial outlines the Post Installation Configuration of the open-source he
 </p>
 <br>
 <hr>
+
+
+<p>
+  <ol type="1">
+    <li>Fill in the first SEV-A - SLA (Service Legal Agreement) accoridng to the guide provided.</li>
+    <li>Click Add Plan once all the information is filled out.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/63e24a16bc348267d6ed2aebc247ef3a8568496e/images/Slide_35.jpg" alt="Slide_35"/>
+</p>
+<br>
+<hr>
+
