@@ -520,7 +520,6 @@ This tutorial outlines the Post Installation Configuration of the open-source he
   <ol type="1">
     <li>Add two more SLA's SEV-B and SEV-C .</li>
     <li>Once all information is filled out click Add Plan.</li>
-    <li></li>
   </ol>
 </p>
 <p>
@@ -541,5 +540,27 @@ This tutorial outlines the Post Installation Configuration of the open-source he
 </p>
 <p>
 <img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/aecd9bacf31efdc8fe14eca77a56f4a9feb22bc6/images/Slide_37.jpg" alt="Slide_37"/>
+<br>
+<hr>
+
+<p>
+  <ol type="1">
+    <li></li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/42986a3b6dfba803603cb9bf8ddcfb3d0b2dbd91/images/Slide_38.jpg" alt="Slide_38"/>
+</p>
+<br>
+<hr>
+
+<p>
+  <ol type="1">
+    <li></li>
+  </ol>
+</p>
+<p>
+<img src="" alt="Slide_38"/>
+</p>
 <br>
 <hr>
