@@ -516,3 +516,30 @@ This tutorial outlines the Post Installation Configuration of the open-source he
 <br>
 <hr>
 
+<p>
+  <ol type="1">
+    <li>Add two more SLA's SEV-B and SEV-C .</li>
+    <li>Once all information is filled out click Add Plan.</li>
+    <li></li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/17a798698693118883ce41e6aa4d77c323f1a856/images/Slide_36.jpg" alt="Slide_36"/>
+</p>
+<br>
+<br>
+<hr>
+
+
+<h1 id="help"><i>Configure Help Topics.</i></h1>
+<h2>In osTicket, configuring Help Topics allows you to categorize incoming requests so tickets are automatically routed to the correct department, assigned appropriate priorities, and matched with the right SLA plans</h2>
+
+<p>
+  <ol type="1">
+     <li>Navigate to Manage ---> Help Topics.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/aecd9bacf31efdc8fe14eca77a56f4a9feb22bc6/images/Slide_37.jpg" alt="Slide_37"/>
+<br>
+<hr>
