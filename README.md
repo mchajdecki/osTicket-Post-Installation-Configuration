@@ -545,7 +545,7 @@ This tutorial outlines the Post Installation Configuration of the open-source he
 
 <p>
   <ol type="1">
-    <li></li>
+    <li>Click Add New Help Topic.</li>
   </ol>
 </p>
 <p>
@@ -556,11 +556,12 @@ This tutorial outlines the Post Installation Configuration of the open-source he
 
 <p>
   <ol type="1">
-    <li></li>
+    <li>Create 5 Different Help Topics in osTicket for when users create a new ticket.</li>
+    <li>Help Topics include; Business Critical Outage, Personal Computer Issues, Equipment Request, Password Reset, Other. </li>
   </ol>
 </p>
 <p>
-<img src="" alt="Slide_38"/>
+<img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration/blob/fa6188aa3c4d896841957eedd1e16f6acbb753f4/images/Slide_39.jpg" alt="Slide_39"/>
 </p>
 <br>
 <hr>
