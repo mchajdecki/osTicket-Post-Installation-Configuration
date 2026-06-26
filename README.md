@@ -579,7 +579,7 @@ This tutorial outlines the Post Installation Configuration of the open-source he
 <li><a href="#users">Configure Users(customers)</a></li>
 <li><a href="#sla">Configure SLA</a></li>
 <li><a href="#help">Configure Help Topics</a></li>
-<h2>To continue to the next part of the osTicket the ticket lifestyle examples <a href="">Click Here</a>
+<h2>To continue to the next part of the osTicket the ticket lifestyle examples <a href="https://github.com/mchajdecki/osTicket-Ticket-Lifecycle-Examples/tree/main">Click Here</a>
 </ul>
 <br>
 <a href="#top" ><strong>Back To Top</strong></a>
